@@ -1,0 +1,116 @@
+[33mcommit 118eabc2e7236ba281762fb8b4c4ae178629e536[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m)[m
+Merge: b484f54 c87c6a8
+Author: 김기도 <echachca@naver.com>
+Date:   Thu Jul 22 13:07:05 2021 +0900
+
+    Merge branch 'develop' of https://lab.ssafy.com/s05-webmobile1-sub2/S05P12B105 into develop
+
+[33mcommit c87c6a8c714cd00f5266f1f2d9014ead1f94c752[m[33m ([m[1;31morigin/develop[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: BK <oij1234567@gmail.com>
+Date:   Thu Jul 22 12:40:46 2021 +0900
+
+    리드미 간트차트 수정
+
+[33mcommit b484f54b0e05c2e16f22c0dc4c7dc3325310bcfe[m
+Merge: f5bde17 a1c5d14
+Author: 김기도 <echachca@naver.com>
+Date:   Thu Jul 22 11:59:31 2021 +0900
+
+    Merge branch 'feature/createboard' of https://lab.ssafy.com/s05-webmobile1-sub2/S05P12B105 into develop
+
+[33mcommit f5bde1705eb9748614587c149435d1a34576f946[m
+Author: 김기도 <echachca@naver.com>
+Date:   Thu Jul 22 11:59:19 2021 +0900
+
+    Back add S05P12B105-12 / 로그인 구현
+
+[33mcommit 11bc20e6b13e940f38f42da4ae8f537feb99eccc[m
+Author: 김기도 <echachca@naver.com>
+Date:   Wed Jul 21 16:09:39 2021 +0900
+
+    Back add S05P12B105-51 / Swagger 구현(/api)
+
+[33mcommit 1dc25570a4a86e72d0a57095b720e0e75fce3786[m
+Author: 김기도 <echachca@naver.com>
+Date:   Wed Jul 21 16:07:37 2021 +0900
+
+    Back add S05P12B105-51 / Swagger 구현
+
+[33mcommit 3f8495ce3f0921515dca6d0abaddf9d40287350d[m
+Merge: 56487de d8167ed
+Author: 김기도 <echachca@naver.com>
+Date:   Wed Jul 21 16:06:03 2021 +0900
+
+    Merge branch 'develop' of https://lab.ssafy.com/s05-webmobile1-sub2/S05P12B105 into develop
+
+[33mcommit 56487deda1d243b7ac383c5e71c49754aa32cf7d[m
+Author: 김기도 <echachca@naver.com>
+Date:   Wed Jul 21 16:04:44 2021 +0900
+
+    Back add S05P12B105-51 / Swagger 구현
+
+[33mcommit 10cb346c6b49019d0a41954d33836c58f795f227[m
+Author: 김기도 <echachca@naver.com>
+Date:   Wed Jul 21 16:03:50 2021 +0900
+
+    Back add S05P12B105-51 / 커밋메시지
+
+[33mcommit a1c5d143e024f341eaff9739d8a1c4fb263467e9[m[33m ([m[1;31morigin/feature/createboard[m[33m)[m
+Author: BK <oij1234567@gmail.com>
+Date:   Wed Jul 21 15:56:50 2021 +0900
+
+    gittest
+
+[33mcommit ff0c1ac15e90fe44e91aa42b45bc53199ac227e5[m
+Author: BK <oij1234567@gmail.com>
+Date:   Wed Jul 21 15:54:24 2021 +0900
+
+    Back S05P12B105-35 add / 게시글 생성 개발중, 회원정보 방정보 조회하는 메서드 필요, 해당 메서드 개발 후 이어서 개발 예정
+
+[33mcommit d8167ed1888c143be3787c97e40962de00a11267[m
+Author: BK <oij1234567@gmail.com>
+Date:   Wed Jul 21 15:24:01 2021 +0900
+
+    Back S05P12B105-9 add / board 엔티티 변경, User 포린키 컬럼 생성
+
+[33mcommit 8760889a8f0833d0b0ed8fdebbb53ebeb639b06a[m
+Author: 김기도 <echachca@naver.com>
+Date:   Wed Jul 21 14:01:18 2021 +0900
+
+    Back add S05P12B105-51 / 기본클래스생성
+
+[33mcommit 3f3b89dc53ca96c2b9809f430de16ce822cbecbf[m
+Author: 김기도 <echachca@naver.com>
+Date:   Wed Jul 21 13:52:40 2021 +0900
+
+    git test
+
+[33mcommit b785bdd8e6708ec366adb2e38d640cf648e3baaa[m
+Author: BK <oij1234567@gmail.com>
+Date:   Wed Jul 21 11:57:50 2021 +0900
+
+    Back add S05P12B105-9 / 로컬에서 entity - mysql 연동 성공
+
+[33mcommit 897d16337ae464716989fd2dd4c328c3f20d5e46[m
+Author: BK <oij1234567@gmail.com>
+Date:   Wed Jul 21 10:47:31 2021 +0900
+
+    Project style / Readme.md 일정표 업데이트
+
+[33mcommit a87e4bad8b7b1b49dcfe31eff382edcc95ea8001[m
+Author: BK <oij1234567@gmail.com>
+Date:   Wed Jul 21 10:45:27 2021 +0900
+
+    Back add S05P12B105-51 / 스프링 부트 구조 설계 완료
+
+[33mcommit 5240df71274b8fd08952bd99657f166ad821567d[m
+Author: BK <oij1234567@gmail.com>
+Date:   Mon Jul 19 17:14:25 2021 +0900
+
+    init
+
+[33mcommit 80774458a3513fc8391e6724ff4fc75f8e5a336d[m
+Author: BK <oij1234567@gmail.com>
+Date:   Mon Jul 19 17:12:41 2021 +0900
+
+    Initial commit

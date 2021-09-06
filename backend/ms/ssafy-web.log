@@ -1,0 +1,27 @@
+2021-07-20 16:56:28.788  INFO 9904 --- [restartedMain] com.metastudy.MsApplication           : Starting MsApplication using Java 1.8.0_292 on DESKTOP-KVCQHCD with PID 9904 (C:\metastudy\S05P12B105\backend\ms\build\classes\java\main started by multicampus in C:\metastudy\S05P12B105\backend\ms)
+2021-07-20 16:56:28.789  INFO 9904 --- [restartedMain] com.metastudy.MsApplication           : No active profile set, falling back to default profiles: default
+2021-07-20 16:56:28.822  INFO 9904 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-07-20 16:56:28.831  INFO 9904 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-07-20 16:56:29.245  INFO 9904 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-07-20 16:56:29.255  INFO 9904 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 3 ms. Found 0 JPA repository interfaces.
+2021-07-20 16:56:30.345  INFO 9904 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-07-20 16:56:30.359  INFO 9904 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-07-20 16:56:30.360  INFO 9904 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.48]
+2021-07-20 16:56:30.474  INFO 9904 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-07-20 16:56:30.475  INFO 9904 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1643 ms
+2021-07-20 16:56:30.709  INFO 9904 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-07-20 16:56:30.767  INFO 9904 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.32.Final
+2021-07-20 16:56:30.918  INFO 9904 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-07-20 16:56:31.038  INFO 9904 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2021-07-20 16:56:31.456  INFO 9904 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2021-07-20 16:56:31.474  INFO 9904 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-07-20 16:56:31.735  INFO 9904 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-07-20 16:56:31.750  INFO 9904 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-07-20 16:56:31.802  WARN 9904 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-07-20 16:56:31.946 DEBUG 9904 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2021-07-20 16:56:32.016 DEBUG 9904 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 2 mappings in 'requestMappingHandlerMapping'
+2021-07-20 16:56:32.041 DEBUG 9904 --- [restartedMain] o.s.w.s.c.annotation.WebMvcConfigurer    : Default resource handling disabled
+2021-07-20 16:56:32.050 DEBUG 9904 --- [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2021-07-20 16:56:32.134  INFO 9904 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-07-20 16:56:32.170  INFO 9904 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2021-07-20 16:56:32.183  INFO 9904 --- [restartedMain] com.metastudy.MsApplication           : Started MsApplication in 3.693 seconds (JVM running for 4.075)
